@@ -13,7 +13,7 @@ title                    : "Scott Susin"
 title_separator          : "-"
 name                     : &name "Scott Susin"
 description              : &description "personal description"
-url                      : https://github.com/ssusin270/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://github.com/ssusin270/scottsite.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ssusin270/scottsite.github.io/"
 
